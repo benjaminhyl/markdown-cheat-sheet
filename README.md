@@ -27,9 +27,9 @@ Hay que asignar el pie de pagina a una oracion asi.[^1] [^2]
 
 Lista de Definiciones
 Mula
-:cruza de caballo y burro
+: cruza de caballo y burro
 
 Lista de cosas
--[] git add
--[] git commit
--[] git push
+- [ ] git add
+- [ ] git commit
+- [ ] git push
