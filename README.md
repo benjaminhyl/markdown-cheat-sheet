@@ -18,7 +18,7 @@
 }
 ```
 
-Hay que asignar el pie de pagina a una oracion asi.[^1]
+Hay que asignar el pie de pagina a una oracion asi.[^1] [^2]
 [^1]: Pie de pagina numero 1.
 [^2]: Segunda prueba.
 
