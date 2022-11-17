@@ -26,6 +26,7 @@ Hay que asignar el pie de pagina a una oracion asi.[^1] [^2]
 [^2]: Segunda prueba.
 
 Lista de Definiciones
+
 Mula
 : cruza de caballo y burro
 
