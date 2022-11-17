@@ -17,6 +17,9 @@
     "Edad": "32"
 }
 ```
+```javascript
+console.log("escribe el lenguaje que quieras dejar en el bloque de codigo")
+```
 
 Hay que asignar el pie de pagina a una oracion asi.[^1] [^2]
 [^1]: Pie de pagina numero 1.
