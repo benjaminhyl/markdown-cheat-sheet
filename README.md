@@ -10,6 +10,8 @@
 | Desarrollador | Benjamin |
 | Desarrollador | Gabriel |
 
+`linea de codigo va entre comillas raras`
+
 ```
 {
     "Nombre": "Benjamin",
